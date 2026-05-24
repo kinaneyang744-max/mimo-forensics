@@ -153,3 +153,11 @@ mimo-forensics/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## 📸 Proof of Work — Dashboard
+
+![Proof Dashboard](docs/images/proof_dashboard.png)
+
+> Live dashboard showing 983K+ tokens consumed, 16/16 tests passing, and real-time forensics analysis.
